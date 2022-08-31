@@ -17,7 +17,7 @@
 #ifndef multiCameraIrControl_h
 #define multiCameraIrControl_h
 
-#include "WProgram.h"
+#include "Arduino.h"
 
 class Nikon{
 public:
